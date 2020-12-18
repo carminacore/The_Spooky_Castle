@@ -26,6 +26,7 @@ class RPGInfo():
         """
         print()
         print('You will need to explore the ' + cls.rooms + ' rooms in the castle to fight Dorian who hates the light, fight Dave who hates the cheese and release their prisioner Susan. A gift is waiting for you!')
+        print()
         print('Good luck!')
 
     @staticmethod
